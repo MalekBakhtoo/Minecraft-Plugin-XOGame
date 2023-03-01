@@ -1,0 +1,20 @@
+name: Malek
+version: '${project.version}'
+main: com.malek.ap.malek.Malek
+api-version: 1.18
+
+commands :
+  challenge :
+    usage : /<command>
+  deny :
+    usage : /<command>
+  accept :
+    usage : /<command>
+  save :
+    usage : /<command>
+  reload:
+    usage : /<command>
+  load :
+    usage : /<command>
+  put :
+    usage : /<command>
